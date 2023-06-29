@@ -66,7 +66,7 @@ if __name__ == '__main__':
             elif "bhajan" in data1:
                 webbrowser.open("https://www.youtube.com/watch?v=AqyWfisjCFQ&list=PLB_UT8N8x8i5Drbe4msTs89lcv7gwpoKm&index=1")
             elif "linkedin" in data1:
-                webbrowser.open("https://www.linkedin.com/in/akshita-agrawal-847411232/")
+                webbrowser.open("https://www.linkedin.com/in/.................../")
             elif "joke" in data1:
                 joke1 = pyjokes.get_joke(language="en",category="neutral")
                 print(joke1)
