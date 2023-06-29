@@ -1,0 +1,2 @@
+# Captain-Voice-Administrator
+ Captain is a voice administrator that receives information from the user's voice data, processes the instructions provided, and produces the output that is required..The user may converse with this assistant informally as well as give it instructions to play music, launch YouTube, create a LinkedIn profile, crack jokes, access pictures from the device, and many other things.
